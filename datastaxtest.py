@@ -6,7 +6,7 @@ from astrapy.rest import create_client, AstraClient, http_methods
 
 ASTRA_DB_ID="8adecd2b-8a24-499c-89b3-eb9201fa64d5"
 ASTRA_DB_REGION="us-east1"
-ASTRA_DB_APPLICATION_TOKEN="AstraCS:ZoFDWdhAnxJGjFmjtqTvZgfy:c8e87e8712cb39764b0282912449897791414e5c03bc084de292032291135eca"
+ASTRA_DB_APPLICATION_TOKEN="GET YOUR OWN TOKEN THANKS"
 ASTRA_DB_KEYSPACE="zer0keyspace"
 
 import requests
